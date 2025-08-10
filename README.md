@@ -33,7 +33,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-    cd Food-Delivery
+    cd Food-ordering
 ```
 
 Install dependencies (frontend)
